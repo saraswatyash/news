@@ -1,0 +1,17 @@
+{
+    "name": "techtwiddle-news-list",
+    "version": "3.0.0",
+    "description": "10 latest posts",
+    "license": "MIT",
+    "repository": "saraswatyash/news",
+    "main": "index.js",
+    "keywords": [
+        "news list",
+        "npm",
+        "package",
+        "techtwiddle news"
+    ],
+    "dependencies": {
+        "axios": "^0.25.0"
+    }
+}
