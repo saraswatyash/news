@@ -16,7 +16,7 @@ const news = require("techtwiddle-news-list");
 news()
   .then((res) => {
     
-    console.log('11'+res); // Print the news data on the console
+    console.log(res.data); // Print the news data on the console
   })
   .catch((err) => {
     console.log(err); // Error handler
