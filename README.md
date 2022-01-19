@@ -22,3 +22,9 @@ news()
     console.log(err); // Error handler
   });
 ```
+
+## How to run
+```
+node index.js
+
+```
